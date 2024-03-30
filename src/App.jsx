@@ -8,6 +8,7 @@ function App() {
 
   return (
     <>
+    <div> <h1><i>I Dont Know What Im Doing</i></h1></div>
     <h1><i>I Dont Know What Im Doing</i></h1>
       <div>
         <a href="https://vitejs.dev" target="_blank">
